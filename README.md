@@ -2,6 +2,8 @@
 
 A real-time terminal UI for Kubernetes and OpenShift clusters, built with [Textual](https://github.com/Textualize/textual).
 
+![NEBULA screenshot](screenshots/nebula.svg)
+
 ```
   ███╗   ██╗███████╗██████╗ ██╗   ██╗██╗      █████╗
   ████╗  ██║██╔════╝██╔══██╗██║   ██║██║     ██╔══██╗
